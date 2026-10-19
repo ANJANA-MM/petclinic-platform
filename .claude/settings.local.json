@@ -11,7 +11,7 @@
     ]
   },
   "enabledMcpjsonServers": [
-    "terraform",
+    "awslabs.terraform-mcp-server",
     "aws-knowledge-mcp",
     "awslabs.aws-pricing-mcp-server",
     "context7",
